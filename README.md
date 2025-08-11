@@ -121,13 +121,10 @@ Total market QoQ change: -26.4% in 2025Q1
 --------------------------------------------------------------------------------------------------------
 
 📹 Video Walkthrough
-Link: (Add your unlisted YouTube or Google Drive link here)
+Link: (Google Drive link here)
 
 This video demonstrates:
 Setting filters
 Navigating the dashboard
 Reading auto-generated investor insights
 Key conclusions from the data
-
-If you want, I can also prepare a **shorter, 4–5 bullet investor script** so in your video you can sound crisp and professional when explaining the results.  
-Do you want me to draft that too?
