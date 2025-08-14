@@ -121,7 +121,7 @@ Total market QoQ change: -26.4% in 2025Q1
 --------------------------------------------------------------------------------------------------------
 
 📹 Video Walkthrough
-Link: (Google Drive link here)
+[(Google Drive link here)](https://drive.google.com/file/d/1Us4EOeZ0FKQTmgh_xR815mxOrDt4C36q/view?usp=sharing)
 
 This video demonstrates:
 Setting filters
